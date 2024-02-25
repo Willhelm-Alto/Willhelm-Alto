@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Willhelm
-- 👀 I’m interested in Html, php, and Unity engine C#
-- 🌱 I’m currently learning Html, php, C#, MySql
-- 💞️ I’m looking to collaborate on Unity projects, and other web develop projects
+- 👋 Hi, I’m @Willhelm Alto
+- 👀 I’m interested in React, C, Assembly and Web Development in general
+- 🌱 I’m currently learning React, MySql, and Web development
 
 <!---
 Willhelm-Alto/Willhelm-Alto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
