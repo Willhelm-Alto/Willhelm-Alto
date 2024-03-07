@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Willhelm Alto
-- 👀 I’m interested in React, C, Assembly and Web Development in general
+- 👀 I’m interested in React, C, Assembly and any new technology in general
 - 🌱 I’m currently learning React, MySql, and Web development
 
 <!---
