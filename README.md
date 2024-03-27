@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Willhelm Alto
-- 👀 I’m interested in React, C, Assembly and any new technology in general
-- 🌱 I’m currently learning React, MySql, and Web development
+- 👀 I’m interested in React, C, Assembly and any interesting technology in general
+- 🌱 I’m currently learning React, Next and TypeScript.      
 
 <!---
 Willhelm-Alto/Willhelm-Alto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
