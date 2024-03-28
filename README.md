@@ -1,7 +1,8 @@
 👋 Hi, I’m @Willhelm Alto
 
 ## Technologies
-Although I don't master all of the stack technologies I belive I would be able to in a relative small amount of time
+Although I don't master all of the stack technologies (namely NextJs, Typescript and Tailwind) I belive I would be able to in a relative small amount of time
+
 ![Static Badge](https://img.shields.io/badge/Next-%231a1a1a?style=for-the-badge&logo=nextdotjs)
 ![Static Badge](https://img.shields.io/badge/React-%231a1a1a?style=for-the-badge&logo=React)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%231a1a1a?style=for-the-badge&logo=typescript)
