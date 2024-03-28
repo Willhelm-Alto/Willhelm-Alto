@@ -11,6 +11,7 @@ Although I don't master all of the stack technologies (namely NextJs, Typescript
 ![Static Badge](https://img.shields.io/badge/HTML-%231a1a1a?style=for-the-badge&logo=html5)
 ![Static Badge](https://img.shields.io/badge/CSS-%231a1a1a?style=for-the-badge&logo=css3&logoColor=%231572B6)
 
+Besides these, I also enjoy exploring low-level technologies like C, Assembly and others alike and to study about hardware stuff to better my understanding of how things works   
 <!---
 Willhelm-Alto/Willhelm-Alto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
