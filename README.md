@@ -7,8 +7,7 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-%231a1a1a?style=for-the-badge&logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Tailwind-%231a1a1a?style=for-the-badge&logo=tailwindcss)
 ![Static Badge](https://img.shields.io/badge/HTML-%231a1a1a?style=for-the-badge&logo=html5)
-
-
+![Static Badge](https://img.shields.io/badge/CSS-%231a1a1a?style=for-the-badge&logo=css3&logoColor=%231572B6)
 
 <!---
 Willhelm-Alto/Willhelm-Alto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
