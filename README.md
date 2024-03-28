@@ -14,6 +14,12 @@ Although I don't master all of the stack technologies (namely NextJs, Typescript
 Besides these, I also enjoy exploring low-level technologies like C, Assembly, etc... along side with studying and playing with hardware to better understand 
 how things really work.
 
+Currently I'm working as a Delphi developer.
+
+## 📓 About
+Here you will find some repos I made as I continue to learn new things, they serve most a kind of "gallery" to my progress than professional work, although I intend
+to some day work professionally with these tools. 
+
 <!---
 Willhelm-Alto/Willhelm-Alto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
