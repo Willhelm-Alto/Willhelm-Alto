@@ -1,6 +1,6 @@
 👋 Hi, I’m @Willhelm Alto
 
-# Technologies
+## Technologies
 ![Static Badge](https://img.shields.io/badge/React-%231a1a1a?style=for-the-badge&logo=React)
 
 <!---
