@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Willhelm Alto
-- 👀 I’m interested in Web development any interesting technology in general
-- 🌱 I’m currently learning React, Next and TypeScript.      
 
+# Technologies
 ![Static Badge](https://img.shields.io/badge/React-%231a1a1a?style=for-the-badge&logo=React)
 
 <!---
