@@ -17,7 +17,7 @@ how things really work.
 Currently I'm working as a Delphi developer.
 
 ## 📓 About
-Here you will find some repos I made as I continue to learn new things, they serve most a kind of "gallery" to my progress than professional work, although I intend
+Here you will find some repos I made as I continue to learn new things, they serve most as a kind of "gallery" to my progress than professional work, although I intend
 to some day work professionally with these tools. 
 
 <!---
