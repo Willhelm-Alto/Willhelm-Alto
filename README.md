@@ -14,8 +14,7 @@ Besides these, I also enjoy exploring low-level technologies like C, Assembly, e
 how things really work.
 
 ## 📓 About
-Here you will find some repos I made as I continue to learn new things, they serve most as a kind of "gallery" to my progress than professional work, although I intend
-to some day work professionally with these tools. 
+Here you will find some repos I made as I continue to learn new things, they serve most as a kind of "gallery" to my progress than professional work.
 
 <!---
 Willhelm-Alto/Willhelm-Alto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
